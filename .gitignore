@@ -1,0 +1,7 @@
+#ignore folders
+.theos/
+obj/
+packages/
+
+#ignore files
+.DS_Store
